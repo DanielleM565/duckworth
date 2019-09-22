@@ -4,9 +4,7 @@
 
 Duckworth is a Semi-automated platform that optimizes energy usage and cost savings based on historical consumption and weather forecasting.
 
-We focused on a specific solution to the Duck Problem:
-
-!(https://goo.gl/images/vBJXMA)
+We focused on a specific solution to the [Duck Problem:](https://goo.gl/images/vBJXMA)
 
 The duck curve is a problem to the consumer and grid operator -- as the solar industry continues to grow we will start to see large surges or spikes in power being pulled from the grid after the sun sets. This can be costly for Time of Use customers as well as an unecessary stress to the grid having to ramp-up so quickly. 
 
